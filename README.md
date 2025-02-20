@@ -18,6 +18,8 @@ git clone https://github.com/parteekahlawat/botmast-ai-agent.git
 cd ./botmast-ai-agent
 pip install -r requirements.txt
 python app.py
+
+go on localhost:5000 to run the function
 ```
 
 ## Usage
