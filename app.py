@@ -73,7 +73,7 @@ def send_confirmation_email(email, appointment_time):
 
 def generate_data(msg):
     prompt = f"""
-    Please give me the date, time in the json format from the message given
+    Please give me the date, time, email, name in the json format from the message given
     Message - {msg}
     
     json format - 
