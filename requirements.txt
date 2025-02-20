@@ -1,0 +1,7 @@
+Flask
+requests
+python-dotenv
+# smtplib
+gspread
+oauth2client
+google.generativeai
